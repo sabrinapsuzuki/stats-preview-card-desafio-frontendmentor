@@ -1,2 +1,2 @@
 # READEME
-<img src="./imagens/imagem.jpg" alt="imagem do projeto">
+<img src="imagem.jpg" alt="imagem do projeto">
